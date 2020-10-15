@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 50%;
+  font-size: 42px;
+    margin-left: 25px;
+}
+.menu {
+  width: 50%;
+  text-align: right;
+  margin-right: 25px;
+  list-style-type: none;
+}
+.item {
+  display: inline-block;
+  margin: 0 9px;
+}
+.cart {
+  display: inline-block;
+  margin-left: 9px;
+}

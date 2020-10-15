@@ -1,0 +1,23 @@
+[
+  {
+    "id": "shearling-jacket-brown",
+    "name": "Shearling Jacket in Brown",
+    "details": "A classic silhouette, reimagined in an oversized fit. Crafted from a tumbled Brown leather and black shearling lining. Front zip pockets and heavyweight zip closure. Leather tape seam details.",
+    "price": "$1,045.00 USD",
+    "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_cc273e9a-ae00-4c38-bc89-629e5f40fedb_2000x.jpg?v=1601905099"
+  },
+  {
+    "id": "mohair-work-shirt-red",
+    "name": "Mohair Work Shirt in Red",
+    "details": "A slightly oversized work shirt made from a British made plaid Mohair and fully lined. Featuring side pockets and a single chest pocket. Front zip closure and buttoned cuffs. Contrast faux leather spread collar.",
+    "price": "$155.00 USD",
+    "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d8edc31d-49d8-4949-9fa9-ad6e1b4c2f10_2000x.jpg?v=1601905257"
+  },
+  {
+    "id": "velour-jacket-brown",
+    "name": "Velour Jacket in Brown",
+    "details": "Relaxed fitting collared bomber jacket in black velour. Lined in cupro with pantone matched wool ribbing. Custom RiRi hardware and zips.",
+    "price": "$330.00 USD",
+    "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d50c2d82-1215-4a8c-8ab4-4c68deb43471_2000x.jpg?v=1601904984"
+  }
+]
